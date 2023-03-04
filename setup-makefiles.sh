@@ -8,7 +8,7 @@
 
 set -e
 
-DEVICE=msm8953_64
+DEVICE=PD1730
 VENDOR=vivo
 
 # Load extract_utils and do some sanity checks

@@ -9,6 +9,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/omni_msm8953_64.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_msm8953_64-user \
-    omni_msm8953_64-userdebug \
-    omni_msm8953_64-eng
+    omni_PD1730-user \
+    omni_PD1730-userdebug \
+    omni_PD1730-eng

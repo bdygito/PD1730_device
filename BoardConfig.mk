@@ -5,7 +5,7 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-DEVICE_PATH := device/vivo/msm8953_64
+DEVICE_PATH := device/vivo/PD1730
 
 # For building with minimal manifest
 ALLOW_MISSING_DEPENDENCIES := true

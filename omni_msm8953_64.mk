@@ -15,8 +15,8 @@ $(call inherit-product, vendor/omni/config/common.mk)
 # Inherit from msm8953_64 device
 $(call inherit-product, device/vivo/PD1730/device.mk)
 
-PRODUCT_DEVICE := msm8953_64
-PRODUCT_NAME := omni_msm8953_64
+PRODUCT_DEVICE := PD1730
+PRODUCT_NAME := omni_PD1730
 PRODUCT_BRAND := vivo
 PRODUCT_MODEL := vivo PD1730
 PRODUCT_MANUFACTURER := vivo

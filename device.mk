@@ -5,4 +5,4 @@
 # SPDX-License-Identifier: Apache-2.0
 #
 
-LOCAL_PATH := device/vivo/msm8953_64
+LOCAL_PATH := device/vivo/PD1730

@@ -6,7 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_msm8953_64.mk
+    $(LOCAL_DIR)/omni_PD1730.mk
 
 COMMON_LUNCH_CHOICES := \
     omni_PD1730-user \

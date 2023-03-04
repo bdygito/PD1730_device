@@ -13,7 +13,7 @@ $(call inherit-product, $(SRC_TARGET_DIR)/product/full_base_telephony.mk)
 $(call inherit-product, vendor/omni/config/common.mk)
 
 # Inherit from msm8953_64 device
-$(call inherit-product, device/vivo/msm8953_64/device.mk)
+$(call inherit-product, device/vivo/PD1730/device.mk)
 
 PRODUCT_DEVICE := msm8953_64
 PRODUCT_NAME := omni_msm8953_64

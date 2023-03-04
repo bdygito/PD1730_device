@@ -1,4 +1,4 @@
-# Android device tree for vivo vivo PD1730 (msm8953_64)
+# Android device tree for vivo vivo PD1730 (Y85/Y85A)
 
 ```
 #
